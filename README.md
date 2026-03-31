@@ -1,4 +1,3 @@
-
 # Overview
 Cervical cancer is one of the leading causes of death among women worldwide, especially in developing countries. Early detection can significantly reduce mortality rates. Machine Learning (ML) and Deep Learning (DL) techniques provide powerful tools to identify patterns in medical data and assist in early diagnosis.
 **This project focuses on building predictive models that analyze medical and risk-factor data to detect cervical cancer at an early stage.**
