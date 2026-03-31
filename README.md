@@ -12,13 +12,13 @@ Cervical cancer is one of the leading causes of death among women worldwide, esp
 
 
 # Technologies Used
-  - Programming Language: Python 🐍
-  - Libraries & Frameworks:
-        - NumPy
-        - Pandas
-        - Scikit-learn
-        - TensorFlow / Keras
-        - Matplotlib / Seaborn
+  - Programming Language: Python 
+  - Libraries & Frameworks:<br>
+        1. NumPy<br>
+        2. Pandas<br>
+        3. Scikit-learn<br>
+        4. TensorFlow / Keras<br>
+        5. Matplotlib / Seaborn
 
 
 # Machine Learning Models
