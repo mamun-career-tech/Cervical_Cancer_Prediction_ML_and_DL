@@ -78,7 +78,11 @@ This system can assist:
 Early detection tools powered by AI can significantly improve patient outcomes and reduce healthcare costs.
 
 # Author
--
+- Khandaker Mohammad Mohi Uddin
+- Abdullah Al Mamun(Me)
+- Anamika Chakrabarti
+- Rafid Mostafiz
+- Samrat Kumar Dey
 
 # Support
 If you like this project:
